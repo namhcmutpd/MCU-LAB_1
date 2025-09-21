@@ -4,8 +4,10 @@
 
 **MSSV:** 2312201  
 
-Thanks to the teacher's guidance: **Phan Van Sy**
-
+Thanks to the teacher's guidance:  
+- **Dr. Le Trong Nhan**
+- **Phan Van Sy**
+  
 ---
 
 ## 📌 Description for submission
