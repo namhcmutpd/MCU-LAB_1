@@ -40,3 +40,5 @@ All the code is grouped into the `main.c` file.
 All simulations in Proteus use STM32 with the same source, so it is easier to manage the code.  
 
 When you need to simulate any exercise, just remove the corresponding comment.
+
+Default State of each exercise written in "USER CODE BEGIN 2 -> USER CODE END 2"
