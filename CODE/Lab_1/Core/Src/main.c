@@ -402,7 +402,7 @@ int main(void)
   cforS4 = 2;*/
 
   //Count for Ex6:
-  count = 0;
+  //count = 0;
 
   //Clearcount for Ex7:
   //int c1 = 3;
@@ -436,7 +436,7 @@ int main(void)
 	  //Traffic_Light_4way(3, 2, 3, 2);
 
 	  //Ex6:
-	  Analog_Clock();
+	  //Analog_Clock();
 
 	  //Ex7:
 	  /*c1--;
