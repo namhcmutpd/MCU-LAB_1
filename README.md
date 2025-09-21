@@ -6,7 +6,7 @@
 
 Thanks to the teacher's guidance:  
 - **Dr. Le Trong Nhan**
-- **Phan Van Sy**
+- **Lecture: Phan Van Sy**
   
 ---
 
