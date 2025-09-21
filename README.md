@@ -41,4 +41,6 @@ All simulations in Proteus use STM32 with the same source, so it is easier to ma
 
 When you need to simulate any exercise, just remove the corresponding comment.
 
+Private function for each exercise written in "USER CODE BEGIN PFP -> USER CODE END PFP"
+
 Default State of each exercise written in "USER CODE BEGIN 2 -> USER CODE END 2"
